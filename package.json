@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://<Charan3699>.github.io/<Hospital_17>/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
